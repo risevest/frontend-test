@@ -13,3 +13,11 @@ Our expectations and what we'll love to see:
 
 
 Reference our website for inspiration. Animations are nice to have, but not required for submission
+
+## Time Duration
+
+3 days
+
+## Submission
+
+Reply to this email with your repo link and the hosted version.
