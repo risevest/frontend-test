@@ -9,7 +9,60 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+@font-face {
+  font-family: "TomatoGroteskBlack";
+  src: local("TomatoGrotesk-Black"),
+    url("./fonts/TomatoGrotesk-Black.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "TomatoGroteskBold";
+  src: local("TomatoGrotesk-Bold"),
+    url("./fonts/TomatoGrotesk-Bold.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "TomatoGroteskExtraBold";
+  src: local("TomatoGrotesk-ExtraBold"),
+    url("./fonts/TomatoGrotesk-ExtraBold.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "TomatoGroteskExtraLight";
+  src: local("TomatoGrotesk-ExtraLight"),
+    url("./fonts/TomatoGrotesk-ExtraLight.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "TomatoGroteskLight";
+  src: local("TomatoGrotesk-Light"),
+    url("./fonts/TomatoGrotesk-Light.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "TomatoGroteskMedium";
+  src: local("TomatoGrotesk-Medium"),
+    url("./fonts/TomatoGrotesk-Medium.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "TomatoGroteskRegular";
+  src: local("TomatoGrotesk-Regular"),
+    url("./fonts/TomatoGrotesk-Regular.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "TomatoGroteskSemiBold";
+  src: local("TomatoGrotesk-SemiBold"),
+    url("./fonts/TomatoGrotesk-SemiBold.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "TomatoGroteskThin";
+  src: local("TomatoGrotesk-Thin"),
+    url("./fonts/TomatoGrotesk-Thin.otf") format("opentype");
+}
+
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
-    monospace;
+  font-family: "TomatoGroteskBold";
 }
