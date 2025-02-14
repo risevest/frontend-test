@@ -1,6 +1,6 @@
 # Frontend Engineer Test
 
-See this [link](https://www.figma.com/file/Hevc45ogbUy06wVFK6Yzta/Home-Page?node-id=0%3A1) for a design of our current [landing page](https://risevest.com).
+See this [link](https://www.figma.com/design/B3a6Xc6F6ClAUUUGA1Kz2i/Test-file-rise-25?node-id=0-1&t=fS2VBwpekawscebc-1) for a design of our current [landing page](https://risevest.com).
 Implement this design and publish it to any hosting platform of your choosing. 
 
 
