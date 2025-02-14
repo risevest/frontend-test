@@ -16,7 +16,7 @@ Reference our website for inspiration. Animations are nice to have, but not requ
 
 ## Time Duration
 
-3 days
+5 days
 
 ## Submission
 
