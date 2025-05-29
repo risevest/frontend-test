@@ -61,7 +61,7 @@ export default function FeedbackForm() {
 ---
 ## Time Duration
 
-3 days
+1 day
 
 ## Submission
 
