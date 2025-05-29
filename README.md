@@ -9,7 +9,7 @@ Implement this [design](https://www.figma.com/design/BT9txYU64X2qSbvmlDPLfc/Cust
 
 ### 🎯 Goal
 
-Create a mini web app that allows users to submit feedback and lets support agents view and filter submissions.
+Using the api given below , create a mini web app that allows users to submit feedback and lets support agents view and filter submissions.
 
 ### ✅ Features
 
@@ -30,8 +30,25 @@ Create a mini web app that allows users to submit feedback and lets support agen
 
 - Use a component-based framework like React.
 - Use Tailwind CSS or another styling framework.
-- Mock an API request.
 - Add search functionality for feedback messages.
+
+## API Usage
+
+**GET :** https://rise-frontend-test-api.developer-a6a.workers.dev/
+<br/>
+**POST :** https://rise-frontend-test-api.developer-a6a.workers.dev/
+
+**Request Body (JSON):**
+
+```json
+{
+  "name": "Jane Doe",
+  "email": "jane@example.com",
+  "message": "Please fix dark mode",
+  "type": "bug | feature | other"
+}
+```
+
 
 ---
 
