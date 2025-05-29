@@ -49,7 +49,7 @@ export default function FeedbackForm() {
 
   return (
     <form onSubmit={handleSubmit}>
-      <button type="sumit">Submit Feedback</button>
+      <button type="button">Submit Feedback</button>
     </form>
   );
 }
