@@ -24,7 +24,6 @@ Using the api given below , create a mini web app that allows users to submit fe
   - Only bugs
   - Only feature requests
   - Only other
-- Persist feedback using `localStorage`.
 
 ### 🎁 Todo
 
